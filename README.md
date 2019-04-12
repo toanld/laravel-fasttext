@@ -41,3 +41,8 @@ http://localhost:6410/predict?q=this+is+great+and+fantastic+news&model=sentiment
 If no model is specifiec it will look for a model named `default`
 
 ## PHP/Laravel Package coming soon!
+
+# Credits
+A big thanks to dfederschmidt as we've borrowed a lot from fasttext-server:
+https://github.com/dfederschmidt/fasttext-server
+

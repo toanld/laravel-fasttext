@@ -71,7 +71,7 @@ def predict():
        Retrieve predictions for a single word or sentence from the deployed model.
        Query String:
           * q (str):  word or sentence to get a vector representation for.
-          * limit (int):  Number of most likely classes returned (default: 1)
+          * limit (int):  Number of most likely classes returned (default: 2)
           * threshold (float): Filter classes with a probability below threshold (default: 0.0)
        Returns:
            A json containing the vector representations.
