@@ -1,0 +1,6 @@
+{
+	"models": {
+		"default": "/home/path/to/fasttext/models/ft_model.bin",
+		"other-model": "/home/path/to/fasttext/models/ft_other-model.bin"
+	}
+}
